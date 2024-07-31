@@ -4,13 +4,9 @@
 
 ![Sankey Diagram](bubble.png)
 
-XX
-
 ## Description
 
-The diagram was developed using HTML, CSS, JavaScript, and D3.js. The data was taken from an MRP poll by the polling company YouGov showing projected results by parliamentary constituency for the 2024 general election. When looking through the data, I opted to focus on the flow of Conservative-held seats as there is a huge amount of movement predicted. When researching possible visualisations in D3.js, I decided to go with a Sankey diagram as this highlights the flow of data between nodes which I deemed fit for purpose in this instance.
-
-The graph links the initial node representing the Conservative-held seats in the 2019 general election to various nodes representing predicted seat numbers held by parties. I styled the links with the colours associated with each party, as well as a colour gradient to further visualise the flow. The diagram is also interactive, with a modal specifying the percentage of the predicted seats taken from the Conservatives to each party when the user hovers over each link.
+The diagram was developed using HTML, CSS, JavaScript, and D3.js. The data was taken from an MRP poll by the polling company YouGov showing projected results by parliamentary constituency for the 2024 general election. I wanted to create a bubble chart from the data provided to further my data visualisation skills.
 
 ## Deployment
 
