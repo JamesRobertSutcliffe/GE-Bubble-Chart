@@ -12,7 +12,7 @@ The diagram was developed using HTML, CSS, JavaScript, and D3.js. The data was t
 
 The site is deployed on GitHub pages:
 
-XX
+https://jamesrobertsutcliffe.github.io/GE-Bubble-Chart/
 
 ## Acknowledgments
 
